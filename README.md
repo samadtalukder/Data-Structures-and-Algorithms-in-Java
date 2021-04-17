@@ -1,34 +1,35 @@
 # Data-Structures-and-Algorithms-in-Java
-Data Structures and Algorithms in Java
+
 
 ## Contents
 
-1. [Basic Practice](/src/main/java/com/rampatra/):  
-    1. [Arrays](/src/main/java/com/rampatra/arrays)
-    2. [Backtracking](/src/main/java/com/rampatra/backtracking)
-    3. [Bits](/src/main/java/com/rampatra/bits)
-    4. [Blockchain Demo](/src/main/java/com/rampatra/blockchain)
-    5. [Dynamic Programming](/src/main/java/com/rampatra/dynamicprogramming)
-    6. [Graphs](/src/main/java/com/rampatra/graphs)
-    7. [Java 8](/src/main/java/com/rampatra/java8) 
-    8. [Linked Lists](/src/main/java/com/rampatra/linkedlists)
-    9. [Miscellaneous](/src/main/java/com/rampatra/misc)
-    10. [Permutations](/src/main/java/com/rampatra/permutations)
-    11. [Searching](/src/main/java/com/rampatra/searching)
-    12. [Sorting](/src/main/java/com/rampatra/sorting)
-    13. [Stacks](/src/main/java/com/rampatra/stacks)
-    14. [Strings](/src/main/java/com/rampatra/strings)
-    15. [Threads](/src/main/java/com/rampatra/threads)
-    16. [Trees](/src/main/java/com/rampatra/trees)
-2. [Cracking the Coding Interview](/src/main/java/com/ctci):  
-    1. [Arrays and Strings](/src/main/java/com/ctci/arraysandstrings)
-    2. [Linked Lists](/src/main/java/com/ctci/linkedlists)
-    3. [Stacks and Queues](/src/main/java/com/ctci/stacksandqueues)
-    4. [Trees and Graphs](/src/main/java/com/ctci/treesandgraphs)
-    5. [Bit Manipulation](/src/main/java/com/ctci/bitmanipulation)
-    6. [Recursion and DP](/src/main/java/com/ctci/recursionanddp)
-3. [LeetCode](/src/main/java/com/leetcode).
-4. [HackerRank](/src/main/java/com/hackerrank).
+1. [Data Structures](/src/data_structure):  
+    1. [Arrays](/src/data_structure/arrays)
+    2. [Strings](/src/data_structure/strings)
+    3. [Linked Lists](/src/data_structure/linked_list)
+    4. [Stacks](/src/data_structure/stacks)   
+    5. [Queues](/src/data_structure/queues) 
+    6. [Hashing](/src/data_structure/hashing) 
+    7. [Trees](/src/data_structure/trees) 
+    8. [Graphs](/src/data_structure/graphs)
+    9. [Heaps](/src/data_structure/heaps)
+    10. [Misc](/src/data_structure/misc)
+
+2. [Algorithms](/src/algorithms):
+   1. [Searching](/src/algorithms/searching)
+   2. [Sorting](/src/algorithms/sorting)
+   3. [Dynamic Programming](/src/algorithms/dynamic_programming)
+   4. [Backtracking](/src/algorithms/back_tracking)
+   5. [Bits](/src/algorithms/bits)
+   6. [Greedy Algorithms](/src/algorithms/greedy_algorithms)
+   7. [Pattern Searching](/src/algorithms/pattern_algorithms)
+   8. [Divide And Conquer](/src/algorithms/divide_conquer)
+   9. [Graph Algorithms](/src/algorithms/graph_algorithms)
+   10. [Misc](/src/algorithms/misc)
+   
+3. [LeetCode](/src/leetcode).
+4. [HackerRank](/src/hackerrank).
+5. [Java 8](/src/java8)
 
 
 ## Environment
